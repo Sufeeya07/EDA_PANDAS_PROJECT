@@ -18,4 +18,5 @@ Pair plots to analyze relationships between numeric features.
 Bar plots for average speed by location.
 Histograms for distribution of height and inversions.
 
-![Uploading image.png…]()
+![Uploading Screenshot 2025-02-19 212245.png…]()
+
